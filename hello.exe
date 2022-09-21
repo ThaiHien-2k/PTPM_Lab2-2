@@ -3,6 +3,7 @@
 int main()
 {
     printf("Hello Word!");
+    printf("\n");
     getch();
     return 0;
 }
